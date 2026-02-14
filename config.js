@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "You unlocked:<br>💝 1 Valentine<br>🤗 Unlimited hugs<br>😘 Endless kisses<br>Valid forever 💕<br>See you tonight at 5:45PM PST",
+        title: "I'm the luckiest person in the world! 🥰💖",
+        message: "Congratulations! You unlocked:<br>💝 1 Valentine<br>🤗 Unlimited hugs<br>😘 Endless kisses<br>Valid forever 💕<br>See you tonight at 5:45PM PST!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
